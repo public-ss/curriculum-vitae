@@ -214,21 +214,7 @@
 この本の著者である Christopher Gales さんの肩書きが「Senior Director of Documentation at Splunk」となっており、あまり日本ではみない肩書きだなと思ったのと同時に、良い肩書きだなと思いました。日本でもこの肩書きを広めたいなと思っていて、目指したいなと考えています。
 
 ## 好きなもの  
-### 育児
-- 仕事していないときは子どもと遊んでます。  
-- [育児note](https://note.com/koushikagawa/m/m68b647bc0342)も書いてます。
+### キャンプ
+- 都合がつく休みの日には家族や一人でキャンプに行くのが好きです。
 
 ### 映画鑑賞
-- 娘の寝かしつけをしながらU-NEXTで昔の映画を見ています。  
-
-### ラジオ
-- 深夜ラジオが好きで2012年からずっと聞いています。[オードリーのANN](http://www.allnightnippon.com/kw/)が一番好きです。
-
-### 好きな本
-- [顧客が熱狂するネット靴店　ザッポス伝説](https://amzn.to/2XeueWp)
-- [The Product is Docs: Writing technical documentation in a product development group (English Edition)](https://amzn.to/3AjXP2p)
-- [日本語スタイルガイド(第3版)](https://amzn.to/3HB07P3)
-
-## お問合せ先
-お仕事の依頼、このページについての問い合わせなどは、TwitterよりDMください。
-[https://twitter.com/koushikagawa](https://twitter.com/koushikagawa)
