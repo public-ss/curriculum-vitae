@@ -131,43 +131,18 @@
 
 ### 株式会社ケーワン・エンタープライズ(2014/03~2015/01/01)
 
-自社ナイトレジャー系ポータルサイトの開発～保守・運⽤、速度改善、機能追加等を担当。
+自社ナイトレジャー系ポータルサイトのインフラ保守・運⽤、速度改善等を担当。
 
 - プロジェクト規模
     - 2〜4名のチームでの開発
 - 役割
-    - Webディレクター
-    - エンジニア
-    - 講師
+    - インフラエンジニア
 - プロジェクト詳細
     - Drupalを利用したWeb制作
     - Drupalのナレッジサイト『Web Go!Go!』の運営
 - その他
     - 日本初のDrupal解説書『[Drupal Pro Book CMSカスタマイズ&デザインガイド](https://amzn.to/2WZEAcx)』を執筆
     - 社外向けにもDrupalの利用者向上に努める
-
-## 業務外活動
-
-### プロダクト開発
-個人で、または社外のチームメンバーとともにWebサービス制作を行っています。
-
-#### テクニカルライティングサイト
-- [https://example.com/](https://example.com/)
-- テクニカルライティングについてのtipsをまとめたサイト
-- 個人開発
-- 担当：ライティング、サイト構築([Docusaurus](https://docusaurus.io/)利用)
-
-#### ポートフォリオサイト
-- [https://koushikagawa.net/](https://koushikagawa.net/)
-- 私のポートフォリオサイト
-- 個人開発
-- 担当：企画、Nuxt.js開発、Contentful、Netlify、保守・運用
-
-#### noteシュミレーター
-- [https://notesimulator.netlify.com/](https://notesimulator.netlify.com/)
-- noteのタイムライン、検索結果のプレビューが確認できます。noteを書いているときに、「タイトルは今何文字なのか」「タイムラインにどのように表示されるのか」といったことが知りたかったので、そのために作成
-- 個人開発
-- 担当：企画、プログラミング（Vue.js、HTML、CSS）
 
 ## スキル
 利用可能なスキルを記述します。
@@ -185,28 +160,32 @@
 
 詳細な実績は、[プロジェクトマネジメント](/about/projectmanagement)をご確認ください。
 
-### テクニカルライティングスキル
-
-詳細な実績は、[テクニカルライティング](/about/technicalwriting)をご確認ください。
-
 ### プログラミングスキル
 
 <img alt="php" src="https://img.shields.io/badge/-Php-777BB4.svg?logo=php&style=flat-square" /> 
-<img alt="MySQL" src="https://img.shields.io/badge/-Mysql-4479A1.svg?logo=mysql&style=flat-square" />
+<img alt="Python" src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat-square" /> 
 <img alt="HTML5" src="https://img.shields.io/badge/-Html5-E34F26.svg?logo=html5&style=flat-square" />
 <img alt="CSS3" src="https://img.shields.io/badge/-Css3-1572B6.svg?logo=css3&style=flat-square" />
 <img alt="markdown" src="https://img.shields.io/badge/-Markdown-000000.svg?logo=markdown&style=flat-square" />
+
+### OS
+
+<img alt="Linux" src="https://img.shields.io/badge/-Linux-6C6694.svg?logo=Linux&style=flat-square" />
+<img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D6.svg?logo=Windows&style=flat-square" />
+
+### ミドルウェア
+
+<img src="https://img.shields.io/badge/-Apache-D22128.svg?logo=apache&style=flat">
+<img alt="MySQL" src="https://img.shields.io/badge/-Mysql-4479A1.svg?logo=mysql&style=flat-square" />
 
 ### ツールスキル
 
 <img src="https://img.shields.io/badge/-Github-181717.svg?logo=github&style=flat-square" />
 <img src="https://img.shields.io/badge/-Slack-4A154B.svg?logo=slack&style=flat-square" />
-<img src="https://img.shields.io/badge/-Confluence-172B4D.svg?logo=confluence&style=flat-square" />
-<img src="https://img.shields.io/badge/-Trello-0079BF.svg?logo=trello&style=flat-square" />
-<img src="https://img.shields.io/badge/-ClickUp-000.svg?logo=ClickUp&style=flat-square" />
 <img src="https://img.shields.io/badge/-Notion-000.svg?logo=Notion&style=flat-square" />
-<img src="https://img.shields.io/badge/-Miro-000.svg?logo=Miro&style=flat-square" />
 <img src="https://img.shields.io/badge/-Chatwork-000.svg?logo=Chatwork&style=flat-square" />
+<img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E.svg?logo=amazon-aws&style=flat">
+<img src="https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat">
 
 ## 意欲・興味
 - 新しい技術に対して積極的に学習を行い、スキルアップに努めます
