@@ -19,6 +19,7 @@
 
 | 会社名                                                               | 期間                    | やったこと                     |
 | ----------------------------------------------------------------- | --------------------- | ------------------------- |
+| **[副業 - フリーランス]**                                                 | **2024/08 ~ 現在**             | **機能開発支援業務 / コンサルティング**     |
 | [株式会社コアテック クロスプラットホーム事業部 SRE課](#株式会社コアテック-クロスプラットホーム事業部-sre課)     | 2021/12 \~ 現在         | プロジェクト管理/ポータルサイトインフラ構築・運用 |
 | [株式会社コアテック WEBインテグレーション 事業部 2課](#株式会社コアテック-webインテグレーション事業部-2課)    | 2019/03 \~ 2021/12    | ポータルサイト開発/プロジェクト管理        |
 | [株式会社MTS](#株式会社mts)                                               | 2018/04/01 \~ 2019/03 | インフラエンジニア/プログラマー          |
@@ -27,19 +28,21 @@
 | [株式会社GD Media Marketing インフラ事業部](#株式会社gd-media-marketing-インフラ事業部) | 2011/09 \~ 2014/03    | インフラエンジニア                 |
 | [株式会社ジィー・エイト インフラ事業部（正社員）](#株式会社ジィー・エイト_201002-201109)            | 2010/02 〜 2011/09     | インフラエンジニア                 |
 | [株式会社ジィー・エイト ネットワーク事業部（アルバイト）](#株式会社ジィー・エイト_200708-201002)        | 2007/08 〜 2010/02     | ネットワークエンジニア               |
-| **[副業 - フリーランス]**                                                 | **期間非公開**             | **機能開発業務 / コンサルティング**     |
+
 
 ## 職務経歴(詳細)
 
 ### 副業 - フリーランス
 
+- 期間
+    - 2024/08 \~ 現在
 - **業務内容:**
-  - 機能開発業務 / コンサルティング
-  - 使用技術: **PHP, MySQL, さくらVPS**
+    - 機能開発業務 / コンサルティング
 - **主な実績:**
-  - **CS対応の効率化:** CS対応時に使用するユーザーのページ内移動履歴をWeb画面で確認できる機能を開発。
-  - **システムの安定化:** 既存システムのバグ修正を実施し、エラー率を低減。
-  - **決済マニュアルの整備:** 外部業者が構築した決済システムのマニュアルを作成し、加盟店の増加に貢献。
+    - **CS対応の効率化:** CS対応時に使用するユーザーのページ内移動履歴をWeb画面で確認できる機能を開発。
+        - 使用技術: **PHP7, MySQL, さくらVPS**
+    - **システムの安定化:** 既存システムのバグ修正を実施し、エラー率を低減。
+    - **決済マニュアルの整備:** 外部業者が構築した決済システムのマニュアルを作成し、加盟店の増加に貢献。
 
 ### 株式会社コアテック クロスプラットホーム事業部 SRE課
 
@@ -162,7 +165,27 @@
 
 ### 株式会社GD Media Marketing インフラ事業部 【正社員】
 
-### プロジェクトマネジメントスキル
+## スキルセット
+
+- バックエンド
+    - PHP(Laravel, FuelPHP, CakePHP), Python
+- フロントエンド
+    - HTML5, CSS3
+- クラウド・インフラ
+    - AWS (EC2, Lambda, Fargate, Aurora, S3), さくらVPS
+- DB
+    - MySQL
+- ツールスキル
+    - Docker,Github,Slack,ChatWork,
+- プロジェクト管理
+    - Backlog, Redmine
+- CI/CD
+    - Jenkins, CodePipeline
+- 自動化
+    - Shell, Python, Terraform
+
+
+## プロジェクトマネジメントスキル
 
 - 要件定義
   - アウトプットありきの開発よりも、目的の解決方法を一緒に考えるスタイルが好きです
@@ -173,32 +196,6 @@
   - お客様、チームメンバー、自社メンバーなど、プロジェクトを良くするために様々なチームから意見を取り入れて進めることが好きです
 - ナレッジ共有
   - プロジェクトで得たナレッジは、自分だけにとどめずドキュメント化/発表の場を設けチームにシェアすることが好きです。
-
-### プログラミングスキル
-
-<img alt="php" src="https://img.shields.io/badge/-Php-777BB4.svg?logo=php&style=flat-square" /> 
-<img alt="Python" src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat-square" /> 
-<img alt="HTML5" src="https://img.shields.io/badge/-Html5-E34F26.svg?logo=html5&style=flat-square" />
-<img alt="CSS3" src="https://img.shields.io/badge/-Css3-1572B6.svg?logo=css3&style=flat-square" />
-<img alt="markdown" src="https://img.shields.io/badge/-Markdown-000000.svg?logo=markdown&style=flat-square" />
-
-### OS
-
-<img alt="Linux" src="https://img.shields.io/badge/-Linux-6C6694.svg?logo=Linux&style=flat-square" />
-<img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D6.svg?logo=Windows&style=flat-square" />
-
-### ミドルウェア
-
-<img src="https://img.shields.io/badge/-Apache-D22128.svg?logo=apache&style=flat">
-<img alt="MySQL" src="https://img.shields.io/badge/-Mysql-4479A1.svg?logo=mysql&style=flat-square" />
-
-### ツールスキル
-<img src="https://img.shields.io/badge/-Github-181717.svg?logo=github&style=flat-square" />
-<img src="https://img.shields.io/badge/-Slack-4A154B.svg?logo=slack&style=flat-square" />
-<img src="https://img.shields.io/badge/-Notion-000.svg?logo=Notion&style=flat-square" />
-<img src="https://img.shields.io/badge/-Chatwork-000.svg?logo=Chatwork&style=flat-square" />
-<img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E.svg?logo=amazon-aws&style=flat">
-<img src="https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat">
 
 ## 意欲・興味
 
